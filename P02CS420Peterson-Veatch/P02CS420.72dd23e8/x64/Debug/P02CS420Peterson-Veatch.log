@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++Proj\P02CS420Peterson-Veatch\Source.cpp(34,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  P02CS420Peterson-Veatch.vcxproj -> E:\C++Proj\P02CS420Peterson-Veatch\x64\Debug\P02CS420Peterson-Veatch.exe
